@@ -10,7 +10,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/time-entries")
 public class TimeEntryController {
-    @Autowired
+    //@Autowired
     private TimeEntryRepository timeEntriesRepo;
 
     public TimeEntryController(TimeEntryRepository timeEntriesRepo) {

@@ -10,4 +10,6 @@ public class PalTrackerApplication {
         System.out.println("++++++++++++++++++++++++++++++++++++");
         SpringApplication.run(PalTrackerApplication.class, args);
     }
+
+    get 
 }
